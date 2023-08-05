@@ -4,6 +4,7 @@ recipe:
   servings: Number of servings
   prep_time: Preparation time
   cook_time: Cooking time
+  total_time: Total time
 
 ingredients:
   - Ingredient 1 name and quantity
