@@ -1,0 +1,35 @@
+recipe:
+  name: Recipe Name
+  description: Brief description of the dish.
+  servings: Number of servings
+  prep_time: Preparation time
+  cook_time: Cooking time
+
+ingredients:
+  - Ingredient 1 name and quantity
+  - Ingredient 2 name and quantity
+  # Add more ingredients as needed...
+
+equipment:
+  - something
+  - something else
+
+instructions:
+  - Step 1
+  - Step 2
+  # Add more steps as needed...
+
+# Optional section for additional tips and notes
+notes: |
+  - Note 1
+  - Note 2
+  # Add more notes as needed...
+
+#modified from ChatGPT
+## optional instructions format
+#  - step: Step 1 title
+#    description: >
+#      Detailed instructions for Step 1.
+#  - step: Step 2 title
+#    description: >
+#      Detailed instructions for Step 2.
