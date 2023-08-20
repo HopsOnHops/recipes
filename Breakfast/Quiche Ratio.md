@@ -1,4 +1,4 @@
-# Ingredients
+### Ingredients
 - 1 egg:0.5 cup milk
 - following this ratio is the primary rule
 
