@@ -1,0 +1,8 @@
+1 egg:0.5 cup milk
+following this ratio is the primary rule
+
+whisk eggs, milk and some spices
+mix some sort of filling, fill pie ish with filling, then pour egg custard over. Then bake
+
+Oven should be set around 350F
+bake until toothpick comes out clean
